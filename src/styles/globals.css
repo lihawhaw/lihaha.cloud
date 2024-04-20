@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply dark:text-gray-300 dark:bg-gray-900;
+}
+
+article {
+  @apply leading-8;
+}
+
+.page {
+  @apply container mx-auto lg:max-w-screen-lg px-4 sm:px-0;
+}

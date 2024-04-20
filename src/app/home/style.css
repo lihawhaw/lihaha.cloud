@@ -1,0 +1,4 @@
+.home-img1 {
+  @apply bg-cover bg-center bg-no-repeat backdrop-blur-[20px];
+  background-image: url('https://lihaha.cloud/static/img/background.jpg');
+}
